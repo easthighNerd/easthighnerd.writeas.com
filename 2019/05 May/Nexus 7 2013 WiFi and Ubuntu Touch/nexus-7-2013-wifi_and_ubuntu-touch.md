@@ -1,13 +1,13 @@
 # Nexus 7 2013 (WiFi) and Ubuntu Touch
 
-<img src="nexus-7-2013-wifi_scopes.png" height=450>
+<img src="https://raw.githubusercontent.com/easthighNerd/easthighnerd.writeas.com/master/2019/05%20May/Nexus%207%202013%20WiFi%20and%20Ubuntu%20Touch/nexus-7-2013-wifi_scopes.png" height=450>
 
 About a month ago (give or take) I purchased a Nexus 7 2013 (WiFi) with the intent of flashing Ubuntu Touch (OTA 9) onto it. I had previously flashed Ubuntu Touch onto a Nexus 5 that I had gotten for Christmas last year, again with the intent of flashing Ubuntu Touch onto it, so I knew what I could look forward to and what I could expect.
 
 ## Flashing Ubuntu Touch
 Flashing Ubuntu Touch onto the Nexus 7 was pretty easy overall. First thing I had to do was install `adb` and `fastboot` onto my computer (running Ubuntu), as well as the `ubports-installer` snap.
 
-<img src="ubports-installer_nexus-7-2013-wifi.png" height=300>
+<img src="https://raw.githubusercontent.com/easthighNerd/easthighnerd.writeas.com/master/2019/05%20May/Nexus%207%202013%20WiFi%20and%20Ubuntu%20Touch/ubports-installer_nexus-7-2013-wifi.png" height=300>
 
 Next, on the nexus 7 I needed to enable developer mode, enable USB debugging, unlock the bootloader, and re-enable dev mode and USB debugging. After that, I hooked up the Nexus 7 to my PC and launched the UBports Installer. It detected that the Nexus 7 was connected and pulled up the menu for flashing it right away. I clicked the needed buttons to flash it and let it do it's thing.
 
